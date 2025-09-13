@@ -1,0 +1,56 @@
+Example Telehealth Appointment Transcript (≈30 minutes)
+Clinician (Dr. Lee): Hi Alex, it’s good to see you today. Can you hear and see me okay?
+Patient (Alex): Yes, loud and clear.
+Dr. Lee: Great. Before we dive in, I’ll remind you this is a secure telehealth session, and everything we discuss today will be part of your medical record. How are you doing today?
+Alex: Honestly, a bit tired. It’s been a rough couple of weeks.
+Dr. Lee: I’m sorry to hear that. Let’s start by checking in on what’s been hardest for you lately.
+Alex: My sleep has been really bad. I’m waking up multiple times a night, and during the day I feel sluggish.
+Dr. Lee: Thank you for sharing that. We’ll talk more about your sleep. First, I’d like to review some background. When we last met a month ago, you mentioned stress at work and occasional headaches. Are those still going on?
+Alex: The headaches are better, but the stress is worse.
+Dr. Lee: Okay, noted. Let’s go step by step. Can you tell me about your current sleep routine?
+Alex: I usually get into bed around 11, but I scroll on my phone for a while. I probably fall asleep by midnight. Then I wake up around 3 or 4 a.m. and can’t get back to sleep for an hour or two.
+Dr. Lee: How many total hours do you think you’re getting?
+Alex: Maybe 5 or 6 at most.
+Dr. Lee: That’s definitely on the low end for restorative sleep. Have you noticed if caffeine, alcohol, or stress makes it worse?
+Alex: I drink coffee in the morning, sometimes an energy drink in the afternoon. I don’t drink alcohol often. Stress is probably the main thing.
+Dr. Lee: Makes sense. When you’re lying awake, what’s usually on your mind?
+Alex: Mostly work. I keep thinking about deadlines, or conversations I had during the day.
+Dr. Lee: Thank you for being specific — that helps. I’d like to ask a few structured questions. Have you felt down, depressed, or hopeless over the past two weeks?
+Alex: A little, yeah. Not hopeless, but definitely down.
+Dr. Lee: Have you noticed a loss of interest or pleasure in things you normally enjoy?
+Alex: Kind of. I haven’t wanted to go out with friends, just staying home.
+Dr. Lee: I appreciate your honesty. From what you’re describing, there may be some symptoms of mild depression and anxiety contributing to the sleep issues.
+Alex: That sounds about right.
+Dr. Lee: On a scale from 0 to 10, where 0 is no anxiety and 10 is the worst you can imagine, where would you put yourself this week?
+Alex: Around 6.
+Dr. Lee: Okay, thanks. Do you ever experience panic attacks or sudden intense anxiety?
+Alex: No, nothing like that.
+Dr. Lee: That’s helpful. I’ll also ask: have you had any thoughts of harming yourself?
+Alex: No, nothing like that.
+Dr. Lee: Thank you for confirming. Safety is always important to check. Now, let’s review your physical health. Any changes in appetite, weight, or energy?
+Alex: Appetite is the same. I’ve lost a couple pounds, but I think that’s from skipping meals at work. Energy is low.
+Dr. Lee: Got it. How about exercise?
+Alex: I used to run twice a week, but lately I haven’t been motivated.
+Dr. Lee: Exercise can help both mood and sleep. We’ll talk about small ways to reintroduce it. Before that, I’d like to check in on medications. Are you currently taking anything?
+Alex: Just over-the-counter melatonin sometimes, but it doesn’t help much.
+Dr. Lee: Any other supplements or prescription meds?
+Alex: No.
+Dr. Lee: Okay. Given what you’ve told me, here’s what I’d recommend:
+Sleep hygiene: No screens 30 minutes before bed, consistent bedtime/wake time, and limit caffeine after noon.
+Stress management: Try journaling or making a “worry list” before bed to offload racing thoughts.
+Exercise: Aim for even 15 minutes of light movement three times a week to start.
+Therapy referral: Cognitive behavioral therapy for insomnia (CBT-I) is very effective. Would you be open to a referral?
+Alex: Yes, that could help.
+Dr. Lee: Great. As for medication, since your symptoms are moderate and this is the first time we’re addressing them, I’d suggest starting with non-medication strategies. If sleep and mood don’t improve in 6–8 weeks, we can revisit. How does that sound?
+Alex: That sounds good. I’d prefer not to start meds yet.
+Dr. Lee: Understood. I’ll also send you a sleep diary template. Filling it out for the next two weeks will help us track patterns.
+Alex: Okay, I can do that.
+Dr. Lee: Perfect. Before we wrap up, do you have any other concerns?
+Alex: Actually, sometimes my chest feels tight when I’m stressed. Should I worry about that?
+Dr. Lee: Good question. Does it happen with exertion, like climbing stairs?
+Alex: No, only when I’m anxious.
+Dr. Lee: That suggests it’s stress-related, but I’ll still note it. If you ever have chest pain with activity, shortness of breath, or dizziness, please seek care immediately.
+Alex: Got it.
+Dr. Lee: To summarize: you’re experiencing stress-related sleep disturbance and some mild anxiety/depression symptoms. We’ll focus on sleep hygiene, stress management, exercise, and therapy referral. I’ll send resources through the patient portal. Let’s follow up in 4 weeks to check progress.
+Alex: Sounds good. Thanks for your help today.
+Dr. Lee: You’re welcome, Alex. Take care, and I’ll talk to you next month.
