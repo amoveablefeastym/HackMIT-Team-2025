@@ -14,24 +14,22 @@ cd HackMIT-Team-2025
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-Usage
+
+## Usage
 
 # Generate notes
 python transcript-to-notes/main.py examples/sample.txt
 
 # Generate structured JSON
 python transcript-to-structured/main.py examples/sample.txt
-Example
+## Example
 Input:
-
 Alice: Let's finish slides by Monday.
 Bob: I'll handle the graphs.
 Notes:
-
 - Slides due Monday
 - Bob will handle graphs
 JSON:
-
 {
   "tasks": [
     {"text": "Finish slides", "owner": "Alice", "due": "Monday"},
