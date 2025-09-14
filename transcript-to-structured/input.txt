@@ -1,0 +1,160 @@
+**Telehealth Appointment Transcript**
+
+**Platform:** HealthConnect Secure Video
+**Date:** September 14, 2025
+**Time:** 10:30 AM - 11:00 AM EDT
+**Participants:**
+* Dr. Anya Sharma, MD (Internal Medicine)
+* Mr. David Chen (Patient)
+
+**(The video call connects. Dr. Sharma is in her home office, with a bookshelf behind her. Mr. Chen is sitting at his kitchen table.)**
+
+**[00:00:00] Dr. Anya Sharma:** Good morning, David. Can you hear and see me okay?
+
+**[00:00:05] Mr. David Chen:** Hi, Dr. Sharma. Yes, loud and clear. How about me? The connection seems a bit fuzzy on my end.
+
+**[00:00:12] Dr. Anya Sharma:** You're coming through perfectly. The video is sharp and the audio is clear. As long as you can hear me, we should be fine. Before we begin, can you please confirm your full name and date of birth for me?
+
+**[00:00:25] Mr. David Chen:** Sure. It's David Wei Chen, date of birth is May 12, 1973.
+
+**[00:00:34] Dr. Anya Sharma:** Excellent, thank you, David. So, the record shows this is a scheduled follow-up. We were planning to check in on your blood pressure and review your lab work from a few months ago. What would you like to discuss today?
+
+**[00:00:51] Mr. David Chen:** Yeah, that's right. The blood pressure is the main thing. But actually, the reason I didn't just want to do a simple refill request is that I've been dealing with this really annoying cough for the past, oh, I don't know, two or three weeks. It just won't go away. And I've been feeling incredibly run down.
+
+**[00:01:15] Dr. Anya Sharma:** I see. I'm sorry to hear that. Let's definitely focus on that cough and fatigue first, and then we'll circle back to your ongoing management for the hypertension and cholesterol. Tell me more about this cough. When exactly did it start?
+
+**[00:01:32] Mr. David Chen:** Let's see... my daughter had a cold she brought home from school about a month ago. I think I started feeling a little scratch in my throat maybe three weeks ago, and it's just kind of settled in my chest since then. It’s not an all-day-long cough, but I have these fits, especially in the morning when I wake up and then again at night when I lie down.
+
+**[00:01:58] Dr. Anya Sharma:** Okay. And when you cough, would you describe it as a dry cough, or are you bringing anything up?
+
+**[00:02:06] Mr. David Chen:** It was dry at first, really tickly and irritating. For the last week or so, there’s been a bit of... uh... stuff coming up. Phlegm, I guess. It's mostly clear or whitish. Nothing green or yellow, if that's what you're asking.
+
+**[00:02:25] Dr. Anya Sharma:** That's a very helpful detail, thank you. Have you had any other symptoms along with this cough? For example, any fever, chills, or body aches?
+
+**[00:02:37] Mr. David Chen:** When it first started, I felt generally crummy. I had a bit of a headache behind my eyes and some mild body aches, but I checked my temperature a few times and it never went above 99.5 Fahrenheit. No real fever to speak of. The main thing besides the cough is just this bone-deep tiredness. I feel like I'm walking through molasses.
+
+**[00:03:05] Dr. Anya Sharma:** I understand. And what about shortness of breath? Do you feel winded when you're walking around the house, going up stairs, or when you're having one of those coughing fits?
+
+**[00:03:18] Mr. David Chen:** Not really short of breath like I can't breathe. But sometimes, after a long coughing spell, I feel a bit of a tightness in my chest and I have to sit down for a minute to catch my breath. It's not painful, just... tight.
+
+**[00:03:36] Dr. Anya Sharma:** Okay. Any sore throat, sinus pressure, or runny nose?
+
+**[00:03:42] Mr. David Chen:** The sore throat was there for the first few days, but that's gone now. My nose has been a little stuffy, especially at night. I wake up and can only breathe through my mouth.
+
+**[00:03:55] Dr. Anya Sharma:** Have you tried any over-the-counter medications for these symptoms?
+
+**[00:04:01] Mr. David Chen:** Yeah, a little bit. I've been taking Tylenol when the headache was bad. And my wife got me some Robitussin DM. I think it has a cough suppressant and something to break up the mucus? It helps a little for a few hours, but the cough always comes back.
+
+**[00:04:22] Dr. Anya Sharma:** It sounds like you've been doing the right things for self-care. Based on what you're describing – the initial cold-like symptoms, the transition to a productive cough with clear sputum, the absence of high fever, and that lingering fatigue – this sounds very consistent with a post-viral cough, likely from an episode of acute bronchitis that followed a common cold or another upper respiratory infection. It’s very common for the cough and fatigue to linger for several weeks after the initial infection has cleared.
+
+**[00:04:58] Mr. David Chen:** So you don't think it's pneumonia or something worse? That's what I was worried about.
+
+**[00:05:05] Dr. Anya Sharma:** The lack of high fever, the absence of significant, persistent shortness of breath, and the fact that your sputum is clear are all reassuring signs that make pneumonia less likely. However, we always keep it in mind. The plan will be to manage the symptoms, but I'll also give you specific red flags to watch for that would require a more urgent, in-person evaluation.
+
+**[00:05:31] Mr. David Chen:** Okay, that makes me feel a bit better.
+
+**[00:05:35] Dr. Anya Sharma:** Good. Now, let’s switch gears for a moment to your chronic conditions, as they can sometimes be related. You're currently taking Lisinopril, 10 milligrams, for your essential hypertension, correct?
+
+**[00:05:51] Mr. David Chen:** That's right. One pill every morning.
+
+**[00:05:55] Dr. Anya Sharma:** A persistent, dry cough can sometimes be a side effect of Lisinopril. Your cough sounds like it started with an illness and is productive, which makes it less likely to be the medication, but it's something we must consider. Has the character of your cough changed at all since you started that medication a couple of years ago?
+
+**[00:06:17] Mr. David Chen:** No, I've never had any issues with it before. This is definitely new and different. It feels like a sickness cough, not just a tickle.
+
+**[00:06:28] Dr. Anya Sharma:** Okay, that's good to know. And how have your home blood pressure readings been? Are you still checking them a few times a week?
+
+**[00:06:36] Mr. David Chen:** I am. I wrote them down. This past week, they've been pretty consistent. The top number is usually between 125 and 135, and the bottom number is usually between 75 and 80. This morning it was 128 over 78.
+
+**[00:06:55] Dr. Anya Sharma:** David, that's fantastic. Those are excellent numbers. It shows the Lisinopril is working very well and that you're doing a great job with monitoring. We'll continue the Lisinopril at the current 10 milligram dose. No changes are needed there.
+
+**[00:07:12] Mr. David Chen:** Great. One less thing to worry about.
+
+**[00:07:15] Dr. Anya Sharma:** Now, let's talk about your cholesterol. You're taking Atorvastatin, 20 milligrams, for hyperlipidemia. How have you been tolerating that? Any side effects we've discussed, like muscle aches or weakness?
+
+**[00:07:31] Mr. David Chen:** You know, it's funny you should mention that. I have been having some aches, but I just assumed it was from feeling sick with this cold thing. Mostly in my legs, like a dull ache in my thighs.
+
+**[00:07:45] Dr. Anya Sharma:** Hmm. Is it more pronounced than the general body aches you had when the illness started? And is it still present now that the other aches have faded?
+
+**[00:07:55] Mr. David Chen:** Yeah, I'd say so. It's not terrible, but I notice it when I'm walking up the stairs. It’s a bit more than just regular fatigue.
+
+**[00:08:08] Dr. Anya Sharma:** Okay, we need to pay attention to that. Statin-induced myalgia, or muscle pain, is a known side effect of medications like Atorvastatin. Often it's mild, but we should investigate. In the plan I'll outline, I'm going to order some blood work for you, including a lipid panel to see where your cholesterol is, but also a test called a CK level, which checks for muscle inflammation.
+
+**[00:08:35] Mr. David Chen:** Okay. So should I stop taking the Atorvastatin?
+
+**[00:08:40] Dr. Anya Sharma:** Let's not stop it just yet. Let's get the blood work first. If the aches are mild and the CK level is normal, we may just monitor it. If it gets worse or the lab test is abnormal, we might consider lowering the dose or switching to a different medication like Rosuvastatin or Pravastatin. For now, just keep taking it and be mindful of the pain. If it becomes severe, stop the medication and let me know immediately.
+
+**[00:09:12] Mr. David Chen:** Will do.
+
+**[00:09:14] Dr. Anya Sharma:** And how about any other issues? Last time we spoke, you mentioned occasional heartburn. Has that been bothering you?
+
+**[00:09:24] Mr. David Chen:** It's been better, actually. I've been trying to avoid eating late at night like you suggested. I still get that burning feeling in my chest maybe once a week, especially if I have tomato sauce or something spicy. I've been taking the Omeprazole you prescribed as needed, and it usually knocks it right out.
+
+**[00:09:45] Dr. Anya Sharma:** I'm glad to hear the lifestyle changes and the as-needed medication are controlling your gastroesophageal reflux disease, or GERD. That sounds like a good, stable plan. No need for any changes there.
+
+**[00:10:01] Mr. David Chen:** Phew. Good.
+
+**[00:10:03] Dr. Anya Sharma:** Okay, so let's put this all together and formulate a clear plan of action.
+
+**(Dr. Sharma types on her computer as she speaks.)**
+
+**[00:10:15] Dr. Anya Sharma:** First, for the cough and fatigue. My primary diagnosis at this point is a post-viral syndrome following an acute upper respiratory infection, presenting as acute bronchitis.
+
+**[00:10:32] Mr. David Chen:** That's a mouthful.
+
+**[00:10:34] Dr. Anya Sharma:** (chuckles) It is. It just means a lingering cough after a cold. The plan for this is primarily supportive care. I do not believe antibiotics are necessary or would be helpful here. I want you to continue to focus on rest and hydration. Drink plenty of water, tea, or broth. Using a humidifier in your bedroom at night can also help soothe your airways.
+
+**[00:11:01] Mr. David Chen:** Okay, I can do that.
+
+**[00:11:04] Dr. Anya Sharma:** You can continue using the combination product with dextromethorphan for cough suppression and guaifenesin as an expectorant to thin the mucus. Take it as directed on the box. For the nasal congestion, you might find a saline nasal spray helpful. If it's really bothersome, an over-the-counter steroid nasal spray like Flonase, or fluticasone, once a day for a week or two, could reduce some of that post-nasal drip that might be triggering the cough at night.
+
+**[00:11:38] Mr. David Chen:** Oh, I think we have some Flonase at home. I can try that.
+
+**[00:11:42] Dr. Anya Sharma:** Perfect. Now, the important part: the things to watch for. If your symptoms change – for example, if you develop a high fever over 101.5 degrees Fahrenheit, if your cough gets much worse, if you start feeling truly short of breath at rest, or if the sputum turns a thick, dark green or yellow color – you need to call me or be seen in person right away. Those could be signs of a secondary bacterial infection like pneumonia.
+
+**[00:12:18] Mr. David Chen:** Okay, I understand. High fever, can't breathe, green stuff. Got it.
+
+**[00:12:24] Dr. Anya Sharma:** Exactly. Second, regarding your well-controlled hypertension. The plan is simple: continue Lisinopril 10 mg daily. Continue monitoring your blood pressure at home and keep a log.
+
+**[00:12:40] Mr. David Chen:** Yep. Easy enough.
+
+**[00:12:42] Dr. Anya Sharma:** Third, for the hyperlipidemia and the new muscle aches. The plan is to continue the Atorvastatin 20 mg for now, but I am putting in an order for blood work at the lab. I want you to get a lipid panel, a comprehensive metabolic panel, and that creatine kinase, or CK, level we discussed. Please try to get this done in the next week. We will use these results to decide on the next steps for your statin therapy. And as I said, if the muscle pain becomes severe, stop the pill and call me.
+
+**[0T:13:21] Mr. David Chen:** So I just go to the lab downtown and give them my name?
+
+**[00:13:25] Dr. Anya Sharma:** Correct. The order will be in the system electronically by the time we finish this call. The results will come directly to me, and I will message you through the patient portal with the results and my interpretation.
+
+**[00:13:38] Mr. David Chen:** Okay, great.
+
+**[00:13:40] Dr. Anya Sharma:** And finally, for the GERD, continue with your dietary modifications and use the Omeprazole 20 mg as needed for breakthrough heartburn. That plan seems to be working well.
+
+**[00:13:54] Mr. David Chen:** It is.
+
+**[00:13:56] Dr. Anya Sharma:** So, to summarize the action items for you: Get your lab work done in the next week. Continue your current medications, but monitor for worsening muscle pain. Try the Flonase for your congestion. And monitor for any of the red flag symptoms with the cough. Do you have any questions about this plan? Does it all make sense?
+
+**[00:14:20] Mr. David Chen:** No, that's all very clear, thank you. I feel much better having a concrete plan. The only other thing I wanted to ask about was sleep. With the cough and the stuffy nose, my sleep has been terrible. I'm waking up three or four times a night. I feel exhausted. Is there anything I can take for that?
+
+**[00:14:45] Dr. Anya Sharma:** That's a very good question, and the fatigue is likely a combination of the post-viral state and poor sleep. I'd prefer to avoid prescription sleep aids right now, as they can have side effects. Sometimes, an over-the-counter antihistamine, like Benadryl, can help with both sleep and the post-nasal drip. However, it can leave you feeling groggy in the morning. Another option is melatonin, which is a more natural supplement. You could try 3 to 5 milligrams of melatonin about an hour before bed.
+
+**[00:15:21] Mr. David Chen:** I think I'd rather try the melatonin. I've heard good things about it.
+
+**[00:15:26] Dr. Anya Sharma:** Let's add that to the plan then. Try melatonin 3-5 mg at bedtime to help with the insomnia related to your current illness. I also want to refill your prescriptions. I'll send a 90-day supply of the Lisinopril, Atorvastatin, and the Omeprazole to your usual pharmacy. You should get a notification from them when it's ready.
+
+**[00:15:50] Mr. David Chen:** Perfect. That's a huge help.
+
+**[00:15:53] Dr. Anya Sharma:** Alright. Let's schedule a follow-up. Given the new muscle aches and the cough, I'd like to check in with you sooner than we'd planned. How about we schedule another telehealth visit in four weeks? That will give us plenty of time to get the lab results back and see if the cough has resolved. If you're not significantly better by then, we'd need to consider other possibilities, like allergic rhinitis or even an asthma component, and perhaps get a chest X-ray.
+
+**[00:16:25] Mr. David Chen:** Four weeks sounds good. What if the cough gets better before then?
+
+**[00:16:30] Dr. Anya Sharma:** If the cough is gone and you're feeling well, you can just message us and we can push the appointment back to our usual three-month interval. This is just to be proactive.
+
+**[00:16:42] Mr. David Chen:** Okay, that makes sense. Thank you, Dr. Sharma. I really appreciate you taking the time to go through everything so thoroughly.
+
+**[00:16:50] Dr. Anya Sharma:** Of course, David. That's what I'm here for. Please don't hesitate to send a message through the portal if you have any other questions or if any of those red flag symptoms appear. Otherwise, I'll see your lab results come through and will see you in four weeks.
+
+**[00:17:05] Mr. David Chen:** Sounds good. Have a great day.
+
+**[00:17:08] Dr. Anya Sharma:** You too. Feel better soon. Goodbye.
+
+**(The call ends.)**
+
+**[END OF TRANSCRIPT]**
