@@ -11,17 +11,22 @@ A tool for transforming transcripts into:
 ```bash
 git clone https://github.com/amoveablefeastym/HackMIT-Team-2025.git
 cd HackMIT-Team-2025
-python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
 
 ## Usage
 
 # Generate notes
-python transcript-to-notes/main.py examples/sample.txt
+pip install anthropic
+export ANTHROPIC_API_KEY="sk-ant-xxxx..."
+python transcript-to-notes.py
 
 # Generate structured JSON
-python transcript-to-structured/main.py examples/sample.txt
+pip install langextract python-dotenv tenacity
+cat > .env << 'EOF'
+# REQUIRED for LangExtract when using Gemini backend
+LANGEXTRACT_API_KEY=YOUR_GEMINI_API_KEY
+
+python transcript-to-structured.py
+
 ## Example
 Input:
 Alice: Let's finish slides by Monday.
