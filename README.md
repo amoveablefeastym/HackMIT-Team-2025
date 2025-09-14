@@ -24,7 +24,6 @@ pip install langextract python-dotenv tenacity
 cat > .env << 'EOF'
 # REQUIRED for LangExtract when using Gemini backend
 LANGEXTRACT_API_KEY=YOUR_GEMINI_API_KEY
-
 python transcript-to-structured.py
 
 ## Example
