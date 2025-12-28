@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clinical Transcript Analyzer - HackMIT 2025</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏥 Clinical Transcript Analyzer</h1>
+            <p class="subtitle">Transform medical transcripts into structured SOAP notes</p>
+        </header>
+
+        <main>
+            <div class="card">
+                <div class="tabs">
+                    <button class="tab-btn active" data-tab="upload">Upload Transcript</button>
+                    <button class="tab-btn" data-tab="sample">Try Sample</button>
+                </div>
+
+                <div class="tab-content active" id="upload">
+                    <div class="upload-area" id="uploadArea">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="17 8 12 3 7 8"></polyline>
+                            <line x1="12" y1="3" x2="12" y2="15"></line>
+                        </svg>
+                        <p>Drop transcript file here or click to browse</p>
+                        <p class="hint">Supports .txt files</p>
+                        <input type="file" id="fileInput" accept=".txt" hidden>
+                    </div>
+
+                    <div class="textarea-container">
+                        <label for="transcriptText">Or paste transcript text:</label>
+                        <textarea id="transcriptText" placeholder="Example:&#10;&#10;Dr. Lee: Hi Alex, it's good to see you today. Can you hear and see me okay?&#10;Patient (Alex): Yes, loud and clear.&#10;Dr. Lee: Great. How are you doing today?&#10;Alex: Honestly, a bit tired..."></textarea>
+                    </div>
+                </div>
+
+                <div class="tab-content" id="sample">
+                    <div class="sample-info">
+                        <h3>Sample Transcript</h3>
+                        <p>Click the button below to load a sample telehealth appointment transcript.</p>
+                        <button class="btn btn-secondary" id="loadSampleBtn">Load Sample Transcript</button>
+                    </div>
+                </div>
+
+                <div class="action-buttons">
+                    <button class="btn btn-primary" id="generateBtn">
+                        <span class="btn-text">Generate SOAP Note</span>
+                        <span class="loader" style="display: none;"></span>
+                    </button>
+                    <button class="btn btn-secondary" id="clearBtn">Clear</button>
+                </div>
+            </div>
+
+            <div class="card result-card" id="resultCard" style="display: none;">
+                <div class="result-header">
+                    <h2>Generated SOAP Note</h2>
+                    <div class="result-actions">
+                        <button class="icon-btn" id="copyBtn" title="Copy to clipboard">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                            </svg>
+                        </button>
+                        <button class="icon-btn" id="downloadBtn" title="Download as text">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                <polyline points="7 10 12 15 17 10"></polyline>
+                                <line x1="12" y1="15" x2="12" y2="3"></line>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+                <div class="result-content" id="resultContent"></div>
+            </div>
+
+            <div class="info-section">
+                <div class="info-card">
+                    <h3>📝 SOAP Note Format</h3>
+                    <ul>
+                        <li><strong>Subjective:</strong> Patient's reported symptoms and concerns</li>
+                        <li><strong>Objective:</strong> Observable clinical findings</li>
+                        <li><strong>Assessment:</strong> Medical diagnosis or evaluation</li>
+                        <li><strong>Plan:</strong> Treatment recommendations and follow-up</li>
+                    </ul>
+                </div>
+                <div class="info-card">
+                    <h3>🔒 Privacy & Security</h3>
+                    <p>This is a demo application. In production:</p>
+                    <ul>
+                        <li>All data should be encrypted in transit and at rest</li>
+                        <li>Ensure HIPAA compliance for real patient data</li>
+                        <li>Use secure authentication and authorization</li>
+                        <li>Never use real patient data without proper safeguards</li>
+                    </ul>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>HackMIT 2025 Project | <a href="https://github.com/amoveablefeastym/HackMIT-Team-2025" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
